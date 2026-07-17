@@ -23,13 +23,10 @@ All original source code, scripts, and firmware configurations contained within 
 
 ### 3.2 Hardware Licensing (`hardware/`)
 All schematics, board layouts, Gerber files, and 3D CAD models contained within the `hardware` directory are distributed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2)**.
-*   **Rationale:** Ensures that any modifications or improvements to the physical hardware design must also be released under the same open-source terms.
+*   **Rationale:** This reciprocal license ensures that any improvements, modifications, or derivatives made to the physical hardware design must also be released to the community under identical open-source terms.
 
-### 3.3 Documentation Licensing (`docs/`)
-All written documentation, diagrams, and media contained within the `docs` directory are distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
-*   **Rationale:** Allows sharing and adaptation of the documentation for any purpose, provided appropriate credit is given to the original authors.
-
----
+### 3.3 Documentation (`docs/`)
+No License Granted (All Rights Reserved). The contents of the `docs/` directory are entirely excluded from the open-source licenses applied to the rest of the repository. No permissions are granted for the reproduction, modification, or distribution of these specific files.
 
 ## 4. Third-Party Dependencies
 The firmware relies on upstream open-source frameworks. Their respective licenses remain in effect and govern their use within this system:
